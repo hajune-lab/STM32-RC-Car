@@ -1,0 +1,23 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+# Local workspace
+.metadata/
+*.launch
+*~
+.DS_Store
+Thumbs.db
+# Local credentials
+.env
+.env.*
+!.env.example
